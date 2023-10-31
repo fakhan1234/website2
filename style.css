@@ -1,0 +1,265 @@
+.navbar{
+    
+    background-color: #0A46B9;
+    color: aliceblue;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+
+.navbar .liftside ul{
+    list-style-type: none;
+}
+
+.liftside ul li{
+    margin-right: 3rem;
+}
+
+
+
+.navbar .rightside ul{
+    list-style-type: none;
+}
+   
+.rightside ul li{
+    margin-right: 3rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.navbar1{
+    
+    color: black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+.liftside1{
+   
+    display: flex;
+}
+
+
+.liftside1 li{
+    list-style: none;
+}
+
+
+.img1{
+    width: 60px;
+}
+
+
+
+
+
+
+
+
+.rightside1 .img2{
+    width: 30px;
+}
+
+
+.rightside1 .img3{
+    width: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.navbar2{
+    
+    display: flex;
+    justify-content: center;
+}
+
+
+.navbar2 .tech2 li{
+    list-style: none;
+}
+
+.navbar2 .sports2 li{
+    list-style: none;
+}
+
+.navbar2 .western2 li{
+    list-style: none;
+}
+
+.navbar2 .health2 li{
+    list-style: none;
+}
+
+.navbar2 .world2 li{
+    list-style: none;
+}
+
+.navbar2 .contant2 li{
+    list-style: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.navbar3{
+    
+    background-color: #326480;
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly; 
+}
+
+.liftside3{
+    
+    background-color: #326480;
+}
+
+
+
+.liftside3 .liup{
+    font-size: 2rem;
+    font-family:Open Sans,sans-serif;
+    list-style: none;
+}
+
+
+.liftside3 .lidwon{
+    list-style: none;
+    font-stretch: 50%;
+}
+
+ .click3{
+    align-items: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.navbar4{
+    
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly; 
+}
+
+
+
+
+.img41{
+    width: 50px;  
+     align-items: center;
+}
+.hand .img41{
+    align-items: center;
+}
+.li41{
+    color: black;
+    font-style: franklin gothic medium cond;
+    font-stretch: 50%;
+    list-style: none;
+}
+
+
+
+
+
+.img42{
+    width: 50px;
+     align-items: center;
+}  
+.hand .img42{
+    align-items: center;
+}
+.li42{
+    color: black;
+    font-style: franklin gothic medium cond;
+    font-stretch: 50%;
+    list-style: none;
+}
+
+
+
+.img43{
+    width: 50px;
+     align-items: center;
+}
+.hand .img43{
+    align-items: center;
+}
+.li43{
+    color: black;
+    font-style: franklin gothic medium cond;
+    font-stretch: 50%;
+    list-style: none;
+}
+
+
+
+
+
+.img44{
+    width: 50px;
+     align-items: center;
+}
+.hand .img44{
+    align-items: center;
+}
+.li44{
+    color: black;
+    font-style: franklin gothic medium cond;
+    font-stretch: 50%;
+    list-style: none;
+}
+
+
+
